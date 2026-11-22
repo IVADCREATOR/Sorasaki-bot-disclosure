@@ -1,0 +1,7 @@
+node_modules/
+QR-CODE/*
+!QR-CODE/.manter
+storage/*
+!storage/.manter
+.env
+*.log
