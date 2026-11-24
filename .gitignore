@@ -5,3 +5,4 @@ storage/*
 !storage/.manter
 .env
 *.log
+package-lock.json
